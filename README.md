@@ -5,4 +5,4 @@ Screenshot
 ----------------------------
 
 <div>
-![Screening 사진](https://user-images.githubusercontent.com/55575160/104563551-210fe780-568d-11eb-81ac-ca3df4ad4c4f.png)
+<src = "https://user-images.githubusercontent.com/55575160/104563551-210fe780-568d-11eb-81ac-ca3df4ad4c4f.png">
