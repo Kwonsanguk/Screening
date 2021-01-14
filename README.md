@@ -5,4 +5,5 @@ Screenshot
 ----------------------------
 
 <div>
-<src = "https://user-images.githubusercontent.com/55575160/104563551-210fe780-568d-11eb-81ac-ca3df4ad4c4f.png">
+<img width= "600" src = "https://user-images.githubusercontent.com/55575160/104563551-210fe780-568d-11eb-81ac-ca3df4ad4c4f.png">
+</div>
